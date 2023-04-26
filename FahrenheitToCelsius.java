@@ -2,7 +2,7 @@
 //How to convert Fahrenheit to Celsius Program in java
 
 
-package Java.com;
+package Java_Logical.com;
 import java.util.Scanner;
 
 public class FahrenheitToCelsius {
